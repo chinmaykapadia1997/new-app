@@ -1,0 +1,24 @@
+.container-fluid{
+    display: flex;
+    height: 100px;
+    width: 100%;
+    background-color: antiquewhite;
+}
+.container-fluid p{
+    display: flex;
+    font-size: 15px;
+}
+.container-price{
+    display: flex;
+    margin-left: 100px;
+    padding-bottom: 20px;
+}
+.container-date{
+    display: flex;
+    margin-left: 100px;
+    padding-bottom: 20px;
+}
+.update-name{
+    display: inline;
+    margin-left: 100px;
+}

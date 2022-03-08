@@ -1,0 +1,9 @@
+.container-price{
+    display: flex;
+    height: 50px;
+    width: 150px;
+    background-color: aquamarine;
+    border: 2px solid black;
+    border-radius: 5px;
+    justify-content: center;
+}
